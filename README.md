@@ -1,0 +1,2 @@
+# techtalk
+Scala TechTalk examples
